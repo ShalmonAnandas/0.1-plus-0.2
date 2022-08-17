@@ -17,3 +17,5 @@ When the computer adds 0.1 and 0.2, it has no longer any idea what the original 
 And that is why 0.1 + 0.2 is not equal to 0.3 in software.
 
 > Explaination stolen shamelessly from [Daniel Lemire](https://lemire.me/blog/2020/10/10/why-is-0-1-0-2-not-equal-to-0-3/#:~:text=In%20most%20instances%2C%20your%20computer,represent%200.1%20or%200.2%20exactly)
+
+> Inspiration : [Hello World in every language](https://github.com/leachim6/hello-world)

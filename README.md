@@ -17,7 +17,7 @@ When the computer adds 0.1 and 0.2, it has no longer any idea what the original 
 And that is why 0.1 + 0.2 is not equal to 0.3 in software.
 
 ## List of languages not Dumb
-- GO
+- GO. Why? [GO see](https://go.dev/ref/spec#Constants) hahahaha
 
 ## Credits
 

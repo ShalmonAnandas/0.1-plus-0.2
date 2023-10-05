@@ -1,5 +1,9 @@
 hi bhai
   bhai ye hai a = 0.1;
   bhai ye hai b = 0.2;
-  bol bhai a+b;
+  agar bhai (a+b == 0.3){
+    bol bhai sahi;
+  } warna bhai {
+    bol bhai galat;
+  }
 bye bhai

@@ -1,4 +1,6 @@
 # A Collection of 0.1 + 0.2 in all languages because computers are stupid and can't do basic math.
+![GitHub language count](https://img.shields.io/github/languages/count/ShalmonAnandas/0.1-plus-0.2)
+
 
 ## Reason behind why computers are stupid:
 
